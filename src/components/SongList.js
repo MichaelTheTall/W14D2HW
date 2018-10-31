@@ -7,7 +7,7 @@ const SongList = (props) => {
   return (
     <div className="song-list">
     <ul>
-    SONG LIST
+    <Song />
     </ul>
     </div>
   );
