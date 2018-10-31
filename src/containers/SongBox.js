@@ -17,7 +17,7 @@ class SongBox extends React.Component {
   //TODO fill render
   render(){
     return (
-      <h1>HELLO I AM A SONG BOX</h1>
+      <SongList />
     )
   }
 }
